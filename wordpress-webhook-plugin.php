@@ -7,7 +7,7 @@ Version:     1.0
 Author:      Julian MyRehat
 Author URI:  https://www.linkedin.com/in/julian-johari-b72720262/
 License:     GPL2
-text-domain : homey-webhook-plugin
+text-domain : wordpress-webhook-plugin
 */
 
 // Basic Security
